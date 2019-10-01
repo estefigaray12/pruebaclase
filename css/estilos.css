@@ -1,0 +1,11 @@
+header{
+  background-color: red;
+}
+main{
+  background-color: green;
+  font-size: 48px;
+  font-family: sans-serif;
+}
+footer{
+  background-color: blue;
+}
